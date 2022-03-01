@@ -1,0 +1,38 @@
+*{
+    background-color:rgb(208, 208, 250);
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align:center;
+}
+
+h1,h2{
+    color:rgb(247, 112, 112);
+}
+
+p {
+    text-align: left;
+}
+
+.cookies_img {
+    height: auto;
+    width: 75%;
+}
+
+.toffee_img {
+    height: auto;
+    width: 75%;
+}
+
+.cupcakes_img {
+    height:auto;
+    width:75%;
+
+}
+
+#menu{
+    font-size: 16px;
+}
+
+
